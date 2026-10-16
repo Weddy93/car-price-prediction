@@ -1,0 +1,31 @@
+{
+    "model_name": "Version 2 - Random Forest with car_model",
+    "problem_type": "Regression",
+    "target": "selling_price",
+    "currency": "INR",
+    "dataset_market": "India",
+    "reference_year": 2026,
+    "feature_columns": [
+        "brand",
+        "car_model",
+        "car_age",
+        "km_driven",
+        "fuel",
+        "seller_type",
+        "transmission",
+        "owner"
+    ],
+    "training_rows": 2861,
+    "testing_rows": 716,
+    "test_mae": 127157.36953022669,
+    "test_rmse": 355136.92183354055,
+    "test_r2": 0.6084781923752014,
+    "cross_validation_mae": 116226.31,
+    "cross_validation_rmse": 266804.74,
+    "cross_validation_r2": 0.702,
+    "notes": [
+        "Dataset contains Indian used-car listings.",
+        "Large prediction errors occur for some expensive and rare vehicles.",
+        "Potential data-quality concerns require source verification."
+    ]
+}
