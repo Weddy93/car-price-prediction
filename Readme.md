@@ -1,8 +1,7 @@
 # Used-Car Price Prediction
 
 A machine-learning regression project that estimates the selling price
-of a used car using vehicle characteristics. This project was developed
-as part of an OasisByte internship task using Python and scikit-learn in
+of a used car using vehicle characteristics. This project was developed using Python and scikit-learn in
 Google Colab.
 
 > **Project status:** Model training, evaluation, validation, and
