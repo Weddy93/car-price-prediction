@@ -143,7 +143,7 @@ prediction-time inputs are processed consistently with training data.
 
 Initial held-out test-set comparison:
 
-  Model                    MAE (₹)     RMSE (₹)       R²
+  Model                    MAE      RMSE       R²
   ------------------- ------------ ------------ --------
   Linear Regression     206,368.40   431,734.10   0.4214
   Decision Tree         199,738.94   475,330.13   0.2986
