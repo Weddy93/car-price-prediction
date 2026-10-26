@@ -79,7 +79,7 @@ here before public redistribution.
 -   scikit-learn
 -   Matplotlib and Seaborn for exploratory visualisation
 -   Joblib for saving the fitted model pipeline
--   Google Colab / Jupyter Notebook
+-   Google Colab 
 
 ## Workflow
 
